@@ -2,7 +2,6 @@
 
 CMS per schema.gov.it
 -test trigger
-.
 
 ## Local Development
 
